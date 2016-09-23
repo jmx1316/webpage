@@ -179,7 +179,7 @@ header {
 .about-down {
     height: 290px;
     padding-top: 50px;
-    background-image: url(../images/pic02.png);
+    background-image: url(../images/pic02.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: "微软雅黑";
@@ -294,7 +294,7 @@ header {
 }
 
 .new-world-left {
-    background-image: url(../images/pic07.png);
+    background-image: url(../images/pic07.jpg);
     float: left;
     width: 66%;
     height: 570px;
